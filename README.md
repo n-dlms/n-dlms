@@ -1,4 +1,4 @@
 -  I love maths
--  Reach me here: dlaminin611@gmail.com
+-  Reach on me here: dlaminin611@gmail.com
 -  Pronouns: he/him
 -  Fun fact: [ :( ]
