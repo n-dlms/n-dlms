@@ -6,5 +6,3 @@ Languages: Python(Intermediate), C++, Matlab, Mathematica, NumPy, Jupyter, SciPy
 Interests: Neural networks, Numerical Optimization, Predictive Modeling
 
 I'm also experienced in working with Linux environments, where I use tools like the terminal, Bash scripting, and package management to develop, test, and run my projects efficiently. This has helped me gain greater control over my programming workflow and understand the system-level aspects of AI development.
-
-Miscallenous: As a Maths student, I have read quite a few Mathematics books and In my opinion, I believe there's no such thing as a "wrong" answer in math only undiscovered logic.
