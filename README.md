@@ -2,7 +2,7 @@
 
 I'm a highly analytical developer/engineer from KwaZulu-Natal, South Africa.
 
-My passion lies at the intersection of **algorithmic problem-solving**, **machine learning**, and **real-world intelligent systems**. I love exploring how core mathematical concepts—like calculus, linear algebra, probability, and optimization—power modern AI models. From numerical simulations to data-driven automation, I'm fascinated by turning abstract theory into scalable, impactful tools.
+My passion lies at the intersection of **Algorithmic problem-solving**, **Machine learning**, and **Real-world intelligent systems**. I love exploring how core mathematical concepts—like calculus, Linear Algebra, Probability, and optimization—power modern AI models. From numerical simulations to data-driven automation, I'm fascinated by turning abstract theory into scalable, impactful tools.
 
 Currently building custom AI projects and preparing for remote software/ML engineering roles. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending math seminars on Elliptic Curves & Riemann Zeta Function).
 
@@ -16,7 +16,7 @@ Currently building custom AI projects and preparing for remote software/ML engin
 - **Competitive Programming**: Codeforces – consistently solving high-difficulty problems in data structures, graphs, DP, optimization etc.
 - **Hackathons**: Intervarsity South African Hackathon participant (2025) – team collaboration via GitHub/Discord to solve real-world challenges under time pressure.
 - **AI Projects**: Developing Python-based tools for data analysis, compliance automation, and workflow efficiency (Streamlit + scikit-learn + NLP).
-- **Academic**: Active in Riemann Academy & Artificial Intelligence Society at Stellenbosch; presented/attended advanced seminars on cutting-edge math topics.
+- **Academic**: Former member Riemann Academy & Artificial Intelligence Society at Stellenbosch; presented/attended advanced seminars on cutting-edge math topics.
 
  Currently Working On
 - Building open-source ML prototypes and algorithmic visualizers (repos coming soon, still in the build)
