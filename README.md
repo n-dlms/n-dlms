@@ -1,4 +1,4 @@
-I'm a highly analytical developer/engineer from South Africa.
+I'm an analytical engineer from South Africa.
 
 Currently building custom Full Stack, ML/AI advanced projects. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending and trying to understand math seminars on Elliptic Curves & Riemann Zeta Function).
 
