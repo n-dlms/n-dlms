@@ -1,6 +1,6 @@
 I'm a highly analytical developer/engineer from South Africa.
 
-Currently building custom AI projects and preparing for remote software/ML engineering roles. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending and trying to understand math seminars on Elliptic Curves & Riemann Zeta Function).
+Currently building custom Full Stack, ML/AI advanced projects. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending and trying to understand math seminars on Elliptic Curves & Riemann Zeta Function).
 
  Tech Stack & Skills
 - **Languages**: Python (Advanced – Streamlit, scikit-learn, NumPy, SciPy, NLP libs), C++ (Fluent), Java (Beginner), MATLAB, Mathematica, LaTeX
@@ -10,11 +10,6 @@ Currently building custom AI projects and preparing for remote software/ML engin
 
  Highlights
 - **Competitive Programming**: Codeforces – consistently solving high-difficulty problems in data structures, graphs, DP, optimization etc.
-- **Hackathons**: Intervarsity South African Hackathon participant (2025) – team collaboration via GitHub/Discord to solve real-world challenges under time pressure. I have also participated in Entelect 2025 University Cup.
+- **Hackathons**: Intervarsity South African Hackathon participant (2025) – team collaboration via GitHub/Discord to solve real-world challenges under time pressure. I have also participated in Entelect 2025 SA University Cup with a friend.
 - **AI Projects**: Developing Python-based tools for data analysis, compliance automation, and workflow efficiency (Streamlit + scikit-learn + NLP).
-- **Academic**: Former member Riemann Academy & Artificial Intelligence Society at Stellenbosch; presented/attended advanced seminars on cutting-edge math topics.
-
- Currently Working On
-- Building open-source ML prototypes and algorithmic visualizers (repos coming soon, still in the build)
-- Completing Google Data Analytics & DeepLearning.AI specializations on Coursera
-- Exploring full-stack projects with FastAPI + React/Streamlit frontends
+- **Academic**: Former member Riemann Academy (2024) & Artificial Intelligence Society at Stellenbosch; presented/attended advanced seminars on cutting-edge math topics.
