@@ -1,5 +1,3 @@
-**Competitive Programmer & Aspiring ML/AI Engineer with interests in Software Engineering too**  
-
 I'm a highly analytical developer/engineer from KwaZulu-Natal, South Africa.
 
 My passion lies at the intersection of **Algorithmic problem-solving**, **Machine learning**, and **Real-world intelligent systems**. I love exploring how core mathematical concepts—like calculus, Linear Algebra, Probability, and optimization—power modern AI models. From numerical simulations to data-driven automation, I'm fascinated by turning abstract theory into scalable, impactful tools.
