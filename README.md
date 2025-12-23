@@ -22,4 +22,3 @@ Currently building custom AI projects and preparing for remote software/ML engin
 - Building open-source ML prototypes and algorithmic visualizers (repos coming soon, still in the build)
 - Completing Google Data Analytics & DeepLearning.AI specializations on Coursera
 - Exploring full-stack projects with FastAPI + React/Streamlit frontends
-- Exploring remote opportunities in software development & AI
