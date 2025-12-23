@@ -11,5 +11,4 @@ Currently building custom Full Stack, ML/AI advanced projects. Resilient and sel
  Highlights
 - **Competitive Programming**: Codeforces – consistently solving high-difficulty problems in data structures, graphs, DP, optimization etc.
 - **Hackathons**: Intervarsity South African Hackathon participant (2025) – team collaboration via GitHub/Discord to solve real-world challenges under time pressure. I have also participated in Entelect 2025 SA University Cup with a friend.
-- **AI Projects**: Developing Python-based tools for data analysis, compliance automation, and workflow efficiency (Streamlit + scikit-learn + NLP).
 - **Academic**: Former member Riemann Academy (2024) & Artificial Intelligence Society at Stellenbosch; presented/attended advanced seminars on cutting-edge math topics.
