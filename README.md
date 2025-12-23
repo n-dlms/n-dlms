@@ -1,8 +1,6 @@
-I'm a highly analytical developer/engineer from KwaZulu-Natal, South Africa.
+I'm a highly analytical developer/engineer from South Africa.
 
-My passion lies at the intersection of **Algorithmic problem-solving**, **Machine learning**, and **Real-world intelligent systems**. I love exploring how core mathematical concepts—like calculus, Linear Algebra, Probability, and optimization—power modern AI models. From numerical simulations to data-driven automation, I'm fascinated by turning abstract theory into scalable, impactful tools.
-
-Currently building custom AI projects and preparing for remote software/ML engineering roles. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending math seminars on Elliptic Curves & Riemann Zeta Function).
+Currently building custom AI projects and preparing for remote software/ML engineering roles. Resilient and self-motivated, I've navigated personal challenges while excelling in high-pressure environments (e.g., competitive programming contests and advanced attending and trying to understand math seminars on Elliptic Curves & Riemann Zeta Function).
 
  Tech Stack & Skills
 - **Languages**: Python (Advanced – Streamlit, scikit-learn, NumPy, SciPy, NLP libs), C++ (Fluent), Java (Beginner), MATLAB, Mathematica, LaTeX
